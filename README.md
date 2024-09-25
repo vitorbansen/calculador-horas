@@ -1,3 +1,3 @@
 # calculador-horas
 Calculadora de Horas Trabalhadas - exec6
-Usando Moment e Node
+Usando Moment(Node.js)
